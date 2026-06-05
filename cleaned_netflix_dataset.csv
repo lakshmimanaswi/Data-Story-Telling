@@ -1,0 +1,201 @@
+show_id,type,title,country,release_year,rating,duration,listed_in
+s1,Movie,Title_1,India,2023,TV-MA,88 min,Comedy
+s2,Movie,Title_2,Japan,2023,TV-14,135 min,Romance
+s3,Movie,Title_3,India,2002,PG-13,124 min,Documentary
+s4,Movie,Title_4,Canada,2006,TV-14,4 Seasons,Romance
+s5,TV Show,Title_5,Australia,2000,PG-13,6 Seasons,Action
+s6,Movie,Title_6,United States,2024,TV-MA,71 min,Romance
+s7,Movie,Title_7,United Kingdom,2011,TV-14,1 Seasons,Thriller
+s8,TV Show,Title_8,Canada,2003,R,130 min,Action
+s9,TV Show,Title_9,Canada,2006,PG,144 min,Comedy
+s10,TV Show,Title_10,India,2007,PG,5 Seasons,Romance
+s11,TV Show,Title_11,United States,2011,TV-MA,145 min,Action
+s12,Movie,Title_12,Canada,2020,PG-13,80 min,Romance
+s13,TV Show,Title_13,United Kingdom,2020,TV-14,147 min,Action
+s14,Movie,Title_14,United States,2001,TV-MA,5 Seasons,Drama
+s15,Movie,Title_15,Canada,2022,TV-MA,143 min,Romance
+s16,TV Show,Title_16,Japan,2014,PG-13,3 Seasons,Comedy
+s17,TV Show,Title_17,Japan,2018,R,6 Seasons,Comedy
+s18,Movie,Title_18,Canada,2015,PG,170 min,Drama
+s19,Movie,Title_19,Japan,2005,R,109 min,Romance
+s20,TV Show,Title_20,Canada,2008,TV-14,147 min,Thriller
+s21,Movie,Title_21,Japan,2017,TV-MA,2 Seasons,Action
+s22,TV Show,Title_22,United States,2014,PG,9 Seasons,Sci-Fi
+s23,Movie,Title_23,Canada,2003,TV-MA,79 min,Action
+s24,Movie,Title_24,Canada,2024,TV-14,136 min,Action
+s25,TV Show,Title_25,India,2003,TV-MA,4 Seasons,Drama
+s26,Movie,Title_26,Canada,2002,PG,2 Seasons,Sci-Fi
+s27,Movie,Title_27,United States,2021,R,93 min,Documentary
+s28,TV Show,Title_28,United States,2017,PG-13,7 Seasons,Thriller
+s29,TV Show,Title_29,South Korea,2016,R,91 min,Comedy
+s30,Movie,Title_30,United Kingdom,2000,TV-14,135 min,Comedy
+s31,Movie,Title_31,India,2022,PG,68 min,Drama
+s32,TV Show,Title_32,India,2016,PG-13,8 Seasons,Comedy
+s33,Movie,Title_33,Japan,2018,TV-14,4 Seasons,Sci-Fi
+s34,TV Show,Title_34,Australia,2013,PG-13,72 min,Thriller
+s35,TV Show,Title_35,United Kingdom,2013,R,1 Seasons,Thriller
+s36,Movie,Title_36,India,2012,TV-MA,91 min,Comedy
+s37,Movie,Title_37,Canada,2014,PG-13,3 Seasons,Action
+s38,TV Show,Title_38,United States,2002,R,66 min,Thriller
+s39,Movie,Title_39,India,2024,PG-13,112 min,Romance
+s40,TV Show,Title_40,United States,2012,PG,108 min,Drama
+s41,TV Show,Title_41,United Kingdom,2025,R,7 Seasons,Thriller
+s42,TV Show,Title_42,United States,2006,TV-MA,67 min,Documentary
+s43,Movie,Title_43,Japan,2010,PG,134 min,Romance
+s44,Movie,Title_44,India,2016,PG,68 min,Documentary
+s45,Movie,Title_45,Japan,2007,R,180 min,Documentary
+s46,Movie,Title_46,Canada,2019,PG,113 min,Thriller
+s47,TV Show,Title_47,United Kingdom,2006,TV-MA,93 min,Romance
+s48,Movie,Title_48,Japan,2020,TV-MA,6 Seasons,Sci-Fi
+s49,Movie,Title_49,India,2014,TV-14,69 min,Documentary
+s50,Movie,Title_50,Canada,2008,PG-13,2 Seasons,Comedy
+s51,TV Show,Title_51,United Kingdom,2005,R,10 Seasons,Sci-Fi
+s52,Movie,Title_52,Japan,2017,TV-MA,180 min,Comedy
+s53,TV Show,Title_53,India,2003,TV-14,94 min,Action
+s54,Movie,Title_54,Japan,2010,PG-13,9 Seasons,Romance
+s55,TV Show,Title_55,Australia,2001,PG,5 Seasons,Drama
+s56,Movie,Title_56,United Kingdom,2024,PG-13,3 Seasons,Thriller
+s57,TV Show,Title_57,Canada,2022,R,74 min,Drama
+s58,Movie,Title_58,Canada,2001,TV-MA,115 min,Comedy
+s59,Movie,Title_59,United Kingdom,2011,PG,4 Seasons,Thriller
+s60,Movie,Title_60,Japan,2003,TV-MA,10 Seasons,Thriller
+s61,Movie,Title_61,United States,2005,PG-13,1 Seasons,Comedy
+s62,TV Show,Title_62,Australia,2013,PG-13,3 Seasons,Sci-Fi
+s63,Movie,Title_63,South Korea,2001,R,85 min,Sci-Fi
+s64,TV Show,Title_64,United Kingdom,2009,PG-13,63 min,Thriller
+s65,Movie,Title_65,South Korea,2010,TV-MA,158 min,Action
+s66,TV Show,Title_66,Japan,2016,R,1 Seasons,Drama
+s67,TV Show,Title_67,United States,2018,TV-MA,73 min,Documentary
+s68,TV Show,Title_68,United Kingdom,2023,TV-MA,10 Seasons,Documentary
+s69,Movie,Title_69,South Korea,2018,PG-13,1 Seasons,Thriller
+s70,TV Show,Title_70,India,2016,TV-14,106 min,Romance
+s71,Movie,Title_71,Japan,2010,TV-14,2 Seasons,Thriller
+s72,TV Show,Title_72,Canada,2009,R,7 Seasons,Thriller
+s73,TV Show,Title_73,Canada,2004,PG-13,7 Seasons,Thriller
+s74,Movie,Title_74,Canada,2018,TV-MA,9 Seasons,Sci-Fi
+s75,Movie,Title_75,United Kingdom,2009,PG-13,10 Seasons,Documentary
+s76,TV Show,Title_76,South Korea,2014,R,125 min,Romance
+s77,Movie,Title_77,Japan,2002,TV-MA,2 Seasons,Sci-Fi
+s78,Movie,Title_78,Japan,2009,PG-13,78 min,Drama
+s79,Movie,Title_79,United States,2015,TV-14,118 min,Romance
+s80,Movie,Title_80,Japan,2022,R,7 Seasons,Comedy
+s81,Movie,Title_81,Japan,2022,PG,159 min,Romance
+s82,Movie,Title_82,United States,2025,TV-14,1 Seasons,Documentary
+s83,Movie,Title_83,Australia,2003,R,162 min,Romance
+s84,TV Show,Title_84,Australia,2014,TV-14,9 Seasons,Romance
+s85,Movie,Title_85,Japan,2015,R,4 Seasons,Sci-Fi
+s86,TV Show,Title_86,Australia,2024,TV-14,4 Seasons,Action
+s87,TV Show,Title_87,India,2022,TV-MA,94 min,Action
+s88,TV Show,Title_88,Canada,2002,PG-13,89 min,Romance
+s89,Movie,Title_89,Japan,2006,PG,7 Seasons,Action
+s90,TV Show,Title_90,South Korea,2001,PG-13,7 Seasons,Sci-Fi
+s91,Movie,Title_91,Australia,2024,TV-14,8 Seasons,Drama
+s92,TV Show,Title_92,United Kingdom,2024,R,9 Seasons,Thriller
+s93,Movie,Title_93,South Korea,2007,TV-MA,8 Seasons,Drama
+s94,TV Show,Title_94,United Kingdom,2021,R,167 min,Romance
+s95,Movie,Title_95,Canada,2017,PG,10 Seasons,Documentary
+s96,Movie,Title_96,India,2020,R,170 min,Romance
+s97,Movie,Title_97,India,2008,R,4 Seasons,Romance
+s98,TV Show,Title_98,United Kingdom,2024,R,7 Seasons,Action
+s99,Movie,Title_99,South Korea,2000,TV-14,104 min,Comedy
+s100,Movie,Title_100,Australia,2020,PG,91 min,Comedy
+s101,Movie,Title_101,Canada,2004,PG-13,120 min,Thriller
+s102,Movie,Title_102,Canada,2006,R,6 Seasons,Comedy
+s103,Movie,Title_103,Australia,2005,TV-MA,134 min,Drama
+s104,TV Show,Title_104,Canada,2021,R,4 Seasons,Drama
+s105,Movie,Title_105,India,2022,TV-MA,161 min,Documentary
+s106,Movie,Title_106,United Kingdom,2017,R,2 Seasons,Documentary
+s107,TV Show,Title_107,India,2013,R,115 min,Action
+s108,TV Show,Title_108,Japan,2004,R,153 min,Documentary
+s109,TV Show,Title_109,Canada,2025,TV-14,8 Seasons,Romance
+s110,TV Show,Title_110,United Kingdom,2007,PG,8 Seasons,Comedy
+s111,TV Show,Title_111,Canada,2019,R,1 Seasons,Romance
+s112,TV Show,Title_112,United States,2015,PG-13,5 Seasons,Action
+s113,TV Show,Title_113,Canada,2022,TV-MA,126 min,Comedy
+s114,Movie,Title_114,United States,2023,R,9 Seasons,Sci-Fi
+s115,Movie,Title_115,Japan,2015,R,1 Seasons,Drama
+s116,TV Show,Title_116,United States,2012,PG-13,10 Seasons,Action
+s117,TV Show,Title_117,Canada,2016,TV-MA,9 Seasons,Action
+s118,TV Show,Title_118,Japan,2014,TV-MA,5 Seasons,Comedy
+s119,Movie,Title_119,Japan,2006,TV-MA,155 min,Documentary
+s120,Movie,Title_120,United States,2006,R,10 Seasons,Sci-Fi
+s121,TV Show,Title_121,India,2006,TV-MA,106 min,Comedy
+s122,TV Show,Title_122,India,2022,TV-14,95 min,Drama
+s123,Movie,Title_123,Canada,2009,PG-13,2 Seasons,Sci-Fi
+s124,Movie,Title_124,Canada,2009,R,8 Seasons,Action
+s125,Movie,Title_125,India,2008,R,165 min,Drama
+s126,TV Show,Title_126,South Korea,2002,TV-14,79 min,Comedy
+s127,TV Show,Title_127,India,2007,PG,10 Seasons,Documentary
+s128,Movie,Title_128,Australia,2016,R,8 Seasons,Action
+s129,TV Show,Title_129,United Kingdom,2018,TV-14,138 min,Thriller
+s130,Movie,Title_130,Australia,2006,PG-13,2 Seasons,Comedy
+s131,Movie,Title_131,United States,2017,PG,60 min,Romance
+s132,TV Show,Title_132,Japan,2019,R,1 Seasons,Comedy
+s133,TV Show,Title_133,Japan,2009,R,147 min,Comedy
+s134,TV Show,Title_134,Australia,2025,TV-14,114 min,Drama
+s135,Movie,Title_135,Japan,2004,TV-MA,69 min,Drama
+s136,Movie,Title_136,Australia,2009,TV-14,8 Seasons,Drama
+s137,TV Show,Title_137,Japan,2009,R,9 Seasons,Documentary
+s138,TV Show,Title_138,South Korea,2002,TV-14,173 min,Romance
+s139,TV Show,Title_139,Canada,2008,PG,89 min,Thriller
+s140,Movie,Title_140,Australia,2021,TV-MA,157 min,Sci-Fi
+s141,Movie,Title_141,South Korea,2016,R,3 Seasons,Documentary
+s142,TV Show,Title_142,Japan,2015,PG,6 Seasons,Romance
+s143,TV Show,Title_143,United Kingdom,2021,PG,102 min,Romance
+s144,TV Show,Title_144,United Kingdom,2021,R,118 min,Drama
+s145,TV Show,Title_145,United Kingdom,2010,PG,9 Seasons,Sci-Fi
+s146,Movie,Title_146,Japan,2017,R,1 Seasons,Comedy
+s147,TV Show,Title_147,Canada,2024,R,1 Seasons,Comedy
+s148,TV Show,Title_148,Canada,2004,TV-MA,8 Seasons,Drama
+s149,Movie,Title_149,Japan,2019,PG-13,99 min,Documentary
+s150,Movie,Title_150,Canada,2013,PG,167 min,Drama
+s151,TV Show,Title_151,India,2020,PG-13,5 Seasons,Documentary
+s152,TV Show,Title_152,South Korea,2015,R,118 min,Documentary
+s153,Movie,Title_153,South Korea,2006,TV-14,170 min,Drama
+s154,TV Show,Title_154,Australia,2025,R,9 Seasons,Action
+s155,Movie,Title_155,United Kingdom,2023,TV-MA,3 Seasons,Romance
+s156,TV Show,Title_156,United Kingdom,2010,TV-14,8 Seasons,Action
+s157,Movie,Title_157,Japan,2007,TV-14,4 Seasons,Sci-Fi
+s158,TV Show,Title_158,India,2010,R,7 Seasons,Thriller
+s159,Movie,Title_159,South Korea,2001,PG-13,2 Seasons,Sci-Fi
+s160,TV Show,Title_160,India,2016,R,152 min,Comedy
+s161,TV Show,Title_161,Australia,2020,PG-13,120 min,Sci-Fi
+s162,TV Show,Title_162,United Kingdom,2019,R,169 min,Action
+s163,TV Show,Title_163,United Kingdom,2020,R,139 min,Drama
+s164,Movie,Title_164,Japan,2021,TV-MA,155 min,Drama
+s165,TV Show,Title_165,India,2024,PG,3 Seasons,Thriller
+s166,TV Show,Title_166,India,2001,TV-MA,97 min,Action
+s167,TV Show,Title_167,South Korea,2004,PG-13,10 Seasons,Thriller
+s168,Movie,Title_168,United States,2005,PG,10 Seasons,Thriller
+s169,Movie,Title_169,South Korea,2018,PG-13,119 min,Thriller
+s170,TV Show,Title_170,South Korea,2008,PG,5 Seasons,Thriller
+s171,Movie,Title_171,India,2014,TV-MA,7 Seasons,Thriller
+s172,TV Show,Title_172,South Korea,2009,PG-13,8 Seasons,Drama
+s173,Movie,Title_173,South Korea,2018,TV-MA,5 Seasons,Drama
+s174,TV Show,Title_174,United Kingdom,2000,TV-14,176 min,Documentary
+s175,TV Show,Title_175,Australia,2009,PG-13,4 Seasons,Thriller
+s176,Movie,Title_176,Canada,2008,PG-13,175 min,Thriller
+s177,Movie,Title_177,United Kingdom,2025,R,134 min,Action
+s178,Movie,Title_178,India,2009,TV-MA,3 Seasons,Comedy
+s179,Movie,Title_179,Australia,2017,TV-MA,3 Seasons,Action
+s180,TV Show,Title_180,Australia,2009,TV-MA,119 min,Drama
+s181,Movie,Title_181,Australia,2007,R,2 Seasons,Sci-Fi
+s182,TV Show,Title_182,India,2008,TV-14,118 min,Action
+s183,TV Show,Title_183,Canada,2012,TV-MA,146 min,Comedy
+s184,TV Show,Title_184,India,2019,TV-14,10 Seasons,Comedy
+s185,Movie,Title_185,Japan,2014,TV-MA,2 Seasons,Comedy
+s186,Movie,Title_186,India,2009,R,72 min,Comedy
+s187,Movie,Title_187,South Korea,2014,TV-MA,10 Seasons,Thriller
+s188,Movie,Title_188,South Korea,2020,PG,10 Seasons,Romance
+s189,TV Show,Title_189,India,2022,TV-MA,116 min,Romance
+s190,Movie,Title_190,Australia,2011,PG,9 Seasons,Thriller
+s191,TV Show,Title_191,India,2012,TV-MA,75 min,Sci-Fi
+s192,TV Show,Title_192,India,2021,PG-13,66 min,Sci-Fi
+s193,TV Show,Title_193,United States,2004,TV-14,68 min,Sci-Fi
+s194,Movie,Title_194,Canada,2006,PG-13,3 Seasons,Sci-Fi
+s195,Movie,Title_195,United Kingdom,2004,PG-13,3 Seasons,Drama
+s196,Movie,Title_196,United States,2000,TV-MA,135 min,Action
+s197,Movie,Title_197,United States,2008,PG,154 min,Romance
+s198,Movie,Title_198,Japan,2002,R,6 Seasons,Documentary
+s199,Movie,Title_199,South Korea,2016,PG-13,153 min,Sci-Fi
+s200,TV Show,Title_200,South Korea,2020,PG,121 min,Sci-Fi
